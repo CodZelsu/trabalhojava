@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class verificaNumero{
      public static void main(String[] args){
        Scanner ler = new Scaner(System.in);
