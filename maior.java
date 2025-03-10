@@ -1,4 +1,4 @@
-import java.util.scanner;
+import java.util.Scanner;
 public class MaiorNumero{
 
     public static void main (Strig [] args) {
