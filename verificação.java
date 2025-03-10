@@ -9,6 +9,7 @@ public class verificaNumero{
       System.out.printf("%d é um número \"par\". \n", n);
     if ((n % 2) == 1)
       System.out.printf("%d é um número \"ímpar\". \n", n);
+          scanner.close();
   }
 }
 
